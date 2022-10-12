@@ -26,6 +26,8 @@ public class HomePage {
 	private WebElement searchField;
 	
 	@FindBy(xpath="//div[@class='_1AtVbE']")
+	
+	
 	private WebElement textOnProductList;
 	
 	@FindBy(xpath="//div[@class='_2kHMtA']")
